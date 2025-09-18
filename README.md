@@ -1,2 +1,2 @@
 # Star_Restaurant_Analysis
-This project focuses on building a data-driven approach to identify Star Restaurants and generate intelligent recommendations for a restaurant consolidator’s B2C portal revamp
+A restaurant consolidator is looking to revamp the B2C portal using intelligent automation tech. This requires a different matrix to identify the star restaurants and generate recommendations. To make sure an effective model can be achieved, it is important to understand the behavior of the data in hand.
